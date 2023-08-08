@@ -1,4 +1,16 @@
 # Personalized Recommendation with Transformers
+
+<td>
+<a target="_blank" href="https://medium.com/hepsiburada-data-science/personalized-recommendations-with-transformers-11c13cff2be">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/45767042/259043664-1045243a-e7b4-46d5-a06e-7aa7d6477dec.png" width=32 height=32 />Read on Medium</a>
+</td>
+&nbsp
+<td>
+<a target="_blank" href="https://colab.research.google.com/github/enisteper1/Personalized-Recommendation-with-Transformers/blob/main/Personalized_Recommendation_with_Transformers.ipynb">
+<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+</td>
+<br/><br/>
+ 
 This repository contains a guide and the associated code to build a personalized movie recommendation system using the Transformer model. Using the MovieLens dataset, we explore how to preprocess data, define our model, and generate recommendations based on user interactions.
 
 ## Contents
